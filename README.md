@@ -8,6 +8,6 @@
 * **iv.cpp:** this creates a command, to run a iverilog(Icarus Verilog) program, that is a **.v** file. This can be used as `iv <filename>`(if the file is not there, you can put the path to the file as well) and it will give you the output
 
 ## Usage
-**Clone the file to someplace on your system and then add the path of the folder custom-commands to your environment variables and you would be able to use the commands**
+**Clone the file to someplace on your system and then add the path of the folder "custom-commands" to your environment variables and you would be able to use the commands**
 
 #### If you want u can delete the folder named "cpp files" anytime, thats there just for educational purpose
